@@ -1,3 +1,8 @@
+*Disclaimer*
+
+> This is a specific react + typescript + react testing library project only for study proposes.
+
+
 React-TypeScript: Weather Dashboard App
 
 Design a Weather Dashboard app that allows users to search for weather information by city name and manage a list of favorite cities. The app should be built using TypeScript and React. Certain core React functionalities are already implemented.
